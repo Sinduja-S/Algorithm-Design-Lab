@@ -1,5 +1,5 @@
-final: obj/recgcd1.o obj/recgcd2.o obj/recgcd3.o obj/itergcd1.o obj/itergcd3.o obj/itergcd2.o obj/main.o obj/k_numbers.o
-	g++ obj/recgcd1.o obj/recgcd2.o obj/recgcd3.o obj/itergcd1.o obj/itergcd3.o obj/itergcd2.o obj/main.o obj/k_numbers.o -o final
+all: obj/recgcd1.o obj/recgcd2.o obj/recgcd3.o obj/itergcd1.o obj/itergcd3.o obj/itergcd2.o obj/main.o obj/k_numbers.o
+	g++ obj/recgcd1.o obj/recgcd2.o obj/recgcd3.o obj/itergcd1.o obj/itergcd3.o obj/itergcd2.o obj/main.o obj/k_numbers.o -o all
 obj/recgcd1.o: src/recgcd1.cpp
 	g++ -c src/recgcd1.cpp && mv recgcd1.o obj/recgcd1.o
 obj/recgcd2.o: src/recgcd2.cpp
