@@ -12,5 +12,5 @@ Codes done as part of Design and Analysis of Algorithms Lab, IIITDM Kancheepuram
 Merging 'k' sorted arrays using 5 logics and Insertion-Merge routine on large random array.
 ### 6.
 
-### Graphs: Lab assignment(Team of 4)
+### Lab assignment(Team of 4): Graphs 
  
