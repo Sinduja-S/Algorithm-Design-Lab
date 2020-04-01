@@ -1,5 +1,5 @@
 # Algorithm-Design-Lab
-## Codes done as part of Design and Analysis of Algorithms Lab, IIITDM Kancheepuram (Semester IV)
+ Codes done as part of Design and Analysis of Algorithms Lab, IIITDM Kancheepuram (Semester IV)
  ### 1. makeofgcd:
   Iterative and Recursive algorithms for finding GCD of two numbers and array.
  ### 2. makeoflab2: 
