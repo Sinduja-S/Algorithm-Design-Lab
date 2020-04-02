@@ -13,7 +13,12 @@
 ### 3. lab3
         q1- Sort ternary array preserving stability (3 logics)
         q2- Partition given integer array into two of equal size such that their sum is maximum
-### 4.
+### 4. lab4
+        q1- Given 'n' numbers, compute GCD and LCD using DC
+        q2- Count the number of 1's in a binary array using DC
+        q3- Count the number of negative numbers in an integer array using DC
+        q4- Implement Towers of Hanoi.
+        q5- Implement 2-way, 3-way merge sort.
 ### 5. makeofkarraynelement
 Merging 'k' sorted arrays using 5 logics and Insertion-Merge routine on large random array.
 ### 6. makeoflab6
