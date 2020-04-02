@@ -19,7 +19,7 @@
         q3- Count the number of negative numbers in an integer array using DC
         q4- Implement Towers of Hanoi.
         q5- Implement 2-way, 3-way merge sort.
-### 5. makeofkarraynelement
+### 5. lab5
 Merging 'k' sorted arrays using 5 logics and Insertion-Merge routine on large random array.
 ### 6. makeoflab6
         q1- Find k smallest elements using quicksort partition routine
