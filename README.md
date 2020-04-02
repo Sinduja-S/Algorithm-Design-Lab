@@ -1,5 +1,9 @@
 # Algorithm-Design-Lab
  Codes done as part of Object Oriented Algorithm Design and Analysis Practice Lab, IIITDM Kancheepuram (Semester IV)
+#### Run code by typing the following in the terminal from the respective directory
+ * make all
+ * ./all
+
  ### 1. makeofgcd
   Iterative and Recursive algorithms for finding GCD of two numbers and array.
  ### 2. makeoflab2 
