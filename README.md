@@ -2,6 +2,7 @@
  Codes done as part of Object Oriented Algorithm Design and Analysis Practice Lab, IIITDM Kancheepuram (Semester IV)
 #### Run code by typing the following in the terminal from the respective directory
  * make all
+ * sudo chmod +x all
  * ./all
 
  ### 1. makeofgcd
