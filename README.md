@@ -10,7 +10,9 @@
          q1-Does there exist q and r in A such that p=q+r? (3 logics)            
          q2-Identify the position of the first '-1' in array (3 logics)
          q3-Print 5 patterns from given integer 'n'
-### 3.
+### 3. lab3
+        q1- Sort ternary array preserving stability (3 logics)
+        q2- Partition given integer array into two of equal size such that their sum is maximum
 ### 4.
 ### 5. makeofkarraynelement
 Merging 'k' sorted arrays using 5 logics and Insertion-Merge routine on large random array.
