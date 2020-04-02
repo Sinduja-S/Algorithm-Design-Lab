@@ -117,7 +117,7 @@ void ternarysort()
     cout<<"Enter \n 1 for mergesort \n 2 for bubble \n 3 for hash if n is less than 100";
     cin>>ch;
     if(ch==1){      
-    mergeSort(a,0,n);
+    mergeSort(a,0,n-1);
     for(int i=0;i<n;i++)
         cout << a[i] ;
     }
